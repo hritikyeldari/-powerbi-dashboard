@@ -5,7 +5,7 @@ This Power BI dashboard is created to analyze data and find useful insights.
  Tools Used
 - Power BI
 - Excel / CSV
-- SQL (if used)
+
 
  📊 Dashboard Preview
 ![Dashboard](dashboard.png)
